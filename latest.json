@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "6.13",
-  "releaseId": "6.13",
-  "manifestSha256": "b3a5e84c3b48b1e133953eab733d7643b3065e0abb62728299e77d61668c40f8",
+  "version": "R279",
+  "releaseId": "r279",
+  "manifestSha256": "7dd1b5c4319befb482834480e49dc7d1e7df15093ed8cb20b9b556fe91b6cf33",
   "notes": "",
-  "publishedAtUtc": "2026-08-12T05:29:40.955628+00:00"
+  "publishedAtUtc": "2026-08-12T21:11:55.9343807+00:00"
 }

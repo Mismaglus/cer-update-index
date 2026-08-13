@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R279",
-  "releaseId": "r279",
-  "manifestSha256": "7dd1b5c4319befb482834480e49dc7d1e7df15093ed8cb20b9b556fe91b6cf33",
+  "version": "R289",
+  "releaseId": "r289",
+  "manifestSha256": "3b569fb58abd517b42081f7334010cd85ff41e6f49b1d73ad37d78ca71e475a6",
   "notes": "",
-  "publishedAtUtc": "2026-08-12T21:11:55.9343807+00:00"
+  "publishedAtUtc": "2026-08-13T04:26:48.9617534+00:00"
 }

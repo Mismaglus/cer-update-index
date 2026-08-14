@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R316",
-  "releaseId": "r316",
-  "manifestSha256": "541947d34a1bed8c4ef3af41113622421e5faf3ea221eca22e405bc01a467278",
-  "notes": "",
-  "publishedAtUtc": "2026-08-14T04:10:44.6590397+00:00"
+  "version": "R334",
+  "releaseId": "r334",
+  "manifestSha256": "ef59847b06f139462b9011824ac20ab6621114cbb9986436e79198fcebedd186",
+  "notes": "当前版本保留首次 L2 碎步与后续 L2 三连斩剑舞；三连斩伤害未翻倍，按现状发布。",
+  "publishedAtUtc": "2026-08-14T22:03:35.7331477+00:00"
 }

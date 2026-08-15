@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R334",
-  "releaseId": "r334",
-  "manifestSha256": "ef59847b06f139462b9011824ac20ab6621114cbb9986436e79198fcebedd186",
-  "notes": "当前版本保留首次 L2 碎步与后续 L2 三连斩剑舞；三连斩伤害未翻倍，按现状发布。",
-  "publishedAtUtc": "2026-08-14T22:03:35.7331477+00:00"
+  "version": "R347",
+  "releaseId": "r347",
+  "manifestSha256": "c4e181180433aab85e7c6430cbe67be7ecf472cd29158065101a175e072aeb83",
+  "notes": "恢复地图掉落、大招充能、追踪者技能与武器切换；本周新增 CER 武器的 Rare/Unique 掉落已闭合。Gravelstone Arcblades 已永久移除，不再考虑恢复。",
+  "publishedAtUtc": "2026-08-15T01:59:27.3866411+00:00"
 }

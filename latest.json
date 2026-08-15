@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R348",
-  "releaseId": "r348",
-  "manifestSha256": "8f50c464cbc24adfcd10ddbdb7f22a1b2460546b84ac54eb86c2905761423332",
-  "notes": "Removes seven orphan weapon-drop entries and restores missing MoreWeapons weapon names and descriptions. Remaining 70 legendary drops resolve correctly.",
-  "publishedAtUtc": "2026-08-15T04:06:47.3434194+00:00"
+  "version": "R353",
+  "releaseId": "r353",
+  "manifestSha256": "3543d1a8f3b93da38ef86702b27a5361352870ae9234f8697f643a2d2fd837bb",
+  "notes": "Frozen Twinshards: restores the accepted handle and front/rear ice blades, doubles its weapon-skill damage, and locks the accepted weapon against later overwrite.",
+  "publishedAtUtc": "2026-08-15T06:11:31.6574976+00:00"
 }

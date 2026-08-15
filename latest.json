@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R353",
-  "releaseId": "r353",
-  "manifestSha256": "3543d1a8f3b93da38ef86702b27a5361352870ae9234f8697f643a2d2fd837bb",
-  "notes": "Frozen Twinshards: restores the accepted handle and front/rear ice blades, doubles its weapon-skill damage, and locks the accepted weapon against later overwrite.",
-  "publishedAtUtc": "2026-08-15T06:11:31.6574976+00:00"
+  "version": "R356",
+  "releaseId": "r356",
+  "manifestSha256": "d873bab62629575071fcf7dfce3e5b7f127c5ee46312520e9d0ffc82c369a007",
+  "notes": "Rimeheart: locks the accepted axe-and-shield pairing, left-hand shield tracking, paired L1 guard/right-hand axe R1, corrected paired attack damage, and panel-scaled Icy Fling.",
+  "publishedAtUtc": "2026-08-15T16:33:08.9662598+00:00"
 }

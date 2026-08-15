@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R347",
-  "releaseId": "r347",
-  "manifestSha256": "c4e181180433aab85e7c6430cbe67be7ecf472cd29158065101a175e072aeb83",
-  "notes": "恢复地图掉落、大招充能、追踪者技能与武器切换；本周新增 CER 武器的 Rare/Unique 掉落已闭合。Gravelstone Arcblades 已永久移除，不再考虑恢复。",
-  "publishedAtUtc": "2026-08-15T01:59:27.3866411+00:00"
+  "version": "R348",
+  "releaseId": "r348",
+  "manifestSha256": "8f50c464cbc24adfcd10ddbdb7f22a1b2460546b84ac54eb86c2905761423332",
+  "notes": "Removes seven orphan weapon-drop entries and restores missing MoreWeapons weapon names and descriptions. Remaining 70 legendary drops resolve correctly.",
+  "publishedAtUtc": "2026-08-15T04:06:47.3434194+00:00"
 }

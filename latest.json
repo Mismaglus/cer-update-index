@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R369",
-  "releaseId": "r369",
-  "manifestSha256": "b06a9de2e8aaefcae25e16a4be991c0c9b3bda28d1825ae6ef8533075b365ed5",
-  "notes": "Includes the accepted R365 combat/training fixes and R368 CER drop repair: all 61 active CER weapons now have valid Rare (purple) and type-specific Unique (red) routes, with legacy gold routing and empty Rare wrappers removed.",
-  "publishedAtUtc": "2026-08-16T17:47:42.9684953+00:00"
+  "version": "R370",
+  "releaseId": "r370",
+  "manifestSha256": "0388a4dbb532fa38d1ad61fd3104ff672a1024b6be5553a4d714173287ba41b9",
+  "notes": "Updates Sigur's Greatmace / Omen's Roar weapon-art description in English and Simplified Chinese. The text now states only that activating the skill increases physical attack power; the charged-heavy explosion claim was removed. No combat data or behavior changed.",
+  "publishedAtUtc": "2026-08-16T18:07:40.7001777+00:00"
 }

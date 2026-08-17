@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R370",
-  "releaseId": "r370",
-  "manifestSha256": "0388a4dbb532fa38d1ad61fd3104ff672a1024b6be5553a4d714173287ba41b9",
-  "notes": "Updates Sigur's Greatmace / Omen's Roar weapon-art description in English and Simplified Chinese. The text now states only that activating the skill increases physical attack power; the charged-heavy explosion claim was removed. No combat data or behavior changed.",
-  "publishedAtUtc": "2026-08-16T18:07:40.7001777+00:00"
+  "version": "R381",
+  "releaseId": "r381",
+  "manifestSha256": "33e99039016b2710b3cd62404ad018572e94aae3230bf47a0f1c49d916c2ecb5",
+  "notes": "Adds the accepted Furnace Fists, Rhys' Swordspear, and Bloodflame Kamas updates. Furnace Fists skill damage is reduced to two-thirds. Rhys' Swordspear uses four visible glintblade projectiles. Bloodflame Kamas now uses its paired-axe moveset, a single visible thrown axe, and a corrected two-hit final light attack at 53% + 53%.",
+  "publishedAtUtc": "2026-08-17T01:36:06.7263958+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R381",
-  "releaseId": "r381",
-  "manifestSha256": "33e99039016b2710b3cd62404ad018572e94aae3230bf47a0f1c49d916c2ecb5",
-  "notes": "Adds the accepted Furnace Fists, Rhys' Swordspear, and Bloodflame Kamas updates. Furnace Fists skill damage is reduced to two-thirds. Rhys' Swordspear uses four visible glintblade projectiles. Bloodflame Kamas now uses its paired-axe moveset, a single visible thrown axe, and a corrected two-hit final light attack at 53% + 53%.",
-  "publishedAtUtc": "2026-08-17T01:36:06.7263958+00:00"
+  "version": "R384",
+  "releaseId": "r384",
+  "manifestSha256": "f60108c90d406c2244918ea2146cb2167a30509c76f605c86c54fb3619ab008b",
+  "notes": "Finalizes and locks the accepted Bloodflame Kamas. Its paired-axe moveset, single thrown axe, two-hit final light attack, and lock-on target-distance chase are now in the formal package.",
+  "publishedAtUtc": "2026-08-17T03:02:24.6373435+00:00"
 }

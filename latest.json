@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R384",
-  "releaseId": "r384",
-  "manifestSha256": "f60108c90d406c2244918ea2146cb2167a30509c76f605c86c54fb3619ab008b",
-  "notes": "Finalizes and locks the accepted Bloodflame Kamas. Its paired-axe moveset, single thrown axe, two-hit final light attack, and lock-on target-distance chase are now in the formal package.",
-  "publishedAtUtc": "2026-08-17T03:02:24.6373435+00:00"
+  "version": "R422",
+  "releaseId": "r422",
+  "manifestSha256": "85344aaf115b45b99a0f36113e60c042276d800eccacf911ce0604ea2ea1ab45",
+  "notes": "Finalizes and locks the accepted Quicksilver Rapier. Flowing-form visuals, the second-stage hit, native 5/50/75/75 attribute scaling, and weapon-scaling skill damage are now in the formal package.",
+  "publishedAtUtc": "2026-08-18T12:55:06.7573734+00:00"
 }

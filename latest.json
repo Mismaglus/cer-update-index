@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R422",
-  "releaseId": "r422",
-  "manifestSha256": "85344aaf115b45b99a0f36113e60c042276d800eccacf911ce0604ea2ea1ab45",
-  "notes": "Finalizes and locks the accepted Quicksilver Rapier. Flowing-form visuals, the second-stage hit, native 5/50/75/75 attribute scaling, and weapon-scaling skill damage are now in the formal package.",
-  "publishedAtUtc": "2026-08-18T12:55:06.7573734+00:00"
+  "version": "R423",
+  "releaseId": "r423",
+  "manifestSha256": "eb25066efdf4a34368decf53f98150d9b8e14076cb6bfbf921dc4f8369c57ee9",
+  "notes": "Updates all CER weapon-name scaling suffixes in English and Simplified Chinese to Nightreign Visual Codex grades (S≥70, A≥60, B≥45, C≥30, D≥25, E>0). Weapon parameters and combat behavior are unchanged.",
+  "publishedAtUtc": "2026-08-18T22:03:43.578909+00:00"
 }

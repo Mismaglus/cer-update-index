@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R424",
-  "releaseId": "r424",
-  "manifestSha256": "fd1e7d3887f650c88cc33a4f21449542846a910ab2582cd7efbb3c6cfada0806",
-  "notes": "Adds Legacy Nightlords (Consumed King Oceiros as an independent final-night boss, including Deep of Night encounter) and updates Launch NightreignPLUS CER.me3 to load it after CERWeapons. Removes the leftover CERWeapons cs_smain.bnk overlay so Oceiros BGM loads from Legacy Nightlords. CER weapon parameters are unchanged.",
-  "publishedAtUtc": "2026-08-20T04:07:33.9062433+00:00"
+  "version": "R425",
+  "releaseId": "r425",
+  "manifestSha256": "aba4ae9b5ea295fa2ff4e7e4b77fa0a2335015c9e32aa3ae60485d3baaa2336d",
+  "notes": "Fixes Oceiros phase-2 BGM: leftover Gladius HeatUp intros now match the full 222 s loop, so the later loop no longer seeks mid-file (garbled audio / no repeat). CER weapons are unchanged.",
+  "publishedAtUtc": "2026-08-20T05:07:44.5815068+00:00"
 }

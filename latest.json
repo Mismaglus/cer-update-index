@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R425",
-  "releaseId": "r425",
-  "manifestSha256": "aba4ae9b5ea295fa2ff4e7e4b77fa0a2335015c9e32aa3ae60485d3baaa2336d",
-  "notes": "Fixes Oceiros phase-2 BGM: leftover Gladius HeatUp intros now match the full 222 s loop, so the later loop no longer seeks mid-file (garbled audio / no repeat). CER weapons are unchanged.",
-  "publishedAtUtc": "2026-08-20T05:07:44.5815068+00:00"
+  "version": "R426",
+  "releaseId": "r426",
+  "manifestSha256": "1bae0090a7f969bc6a8ae70024a568e8a707881aa2a131cb0e4102639462c983",
+  "notes": "Promotes the accepted Oceiros/CER conflict fixes: Gael Greatsword hit detection; Caligo and Gnoster raid spawning; Everdark Augur phase transition and boss identity routing; Oceiros sound effects and phase-2 BGM; Revenant summon/exit behavior; and Ironeye single-charge consumption. Midir is unchanged.",
+  "publishedAtUtc": "2026-08-22T07:26:40.0021888+00:00"
 }

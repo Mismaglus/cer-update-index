@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R426",
-  "releaseId": "r426",
-  "manifestSha256": "1bae0090a7f969bc6a8ae70024a568e8a707881aa2a131cb0e4102639462c983",
-  "notes": "Promotes the accepted Oceiros/CER conflict fixes: Gael Greatsword hit detection; Caligo and Gnoster raid spawning; Everdark Augur phase transition and boss identity routing; Oceiros sound effects and phase-2 BGM; Revenant summon/exit behavior; and Ironeye single-charge consumption. Midir is unchanged.",
-  "publishedAtUtc": "2026-08-22T07:26:40.0021888+00:00"
+  "version": "R427",
+  "releaseId": "r427",
+  "manifestSha256": "bad31a9af7f2bb2e27119522d076eb22d8958fd936f45a2b32be3cc44cfa1bda",
+  "notes": "Promotes the user-accepted Oceiros phase-2 BGM repair: Gael-style external WEM routing and loop-safe Wwise encoding prevent end-of-track electronic noise and playback termination. No other formal files are changed.",
+  "publishedAtUtc": "2026-08-23T05:24:00.1578611+00:00"
 }

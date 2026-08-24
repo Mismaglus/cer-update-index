@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R428",
-  "releaseId": "r428",
-  "manifestSha256": "6d8c43f49068f50c824058278d9f8c3d070e8eccf9cf4b989d2b33c4de52e0c2",
-  "notes": "Promotes the user-accepted Caligo Blizzard raid fix by restoring the exact vanilla m53_05 event/map and c4900 resource closure in the final LegacyNightlords layer. No regulation/PARAM or existing formal files are changed.",
-  "publishedAtUtc": "2026-08-24T06:08:00.661387+00:00"
+  "version": "R429",
+  "releaseId": "r429",
+  "manifestSha256": "34e86a1659f0049b758f58db22df29fa43df503e768ad1c4bbd9093213f7fa36",
+  "notes": "Hides the one-frame blue/red MENU_DummyMovie fallback by adding transparent high/low menu overrides in the final LegacyNightlords layer. Preserves every R428 file and changes no regulation/PARAM or existing formal file.",
+  "publishedAtUtc": "2026-08-24T06:35:43.2466851+00:00"
 }

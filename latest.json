@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "R429",
-  "releaseId": "r429",
-  "manifestSha256": "34e86a1659f0049b758f58db22df29fa43df503e768ad1c4bbd9093213f7fa36",
-  "notes": "Hides the one-frame blue/red MENU_DummyMovie fallback by adding transparent high/low menu overrides in the final LegacyNightlords layer. Preserves every R428 file and changes no regulation/PARAM or existing formal file.",
-  "publishedAtUtc": "2026-08-24T06:35:43.2466851+00:00"
+  "version": "R430",
+  "releaseId": "r430",
+  "manifestSha256": "3d3821350d29dc025f76e4393a408ca64e3a370002ece54b98356acafef3349c",
+  "notes": "Integrates the accepted Legacy Nightlords Oceiros and Quicksilvereater Midir closure into the formal package, including Deep Night selection, portraits, names, Midir AI/audio, and preserved Iron Eye behavior. Normal expedition progression remains unchanged.",
+  "publishedAtUtc": "2026-08-27T18:44:50.7305751+00:00"
 }
